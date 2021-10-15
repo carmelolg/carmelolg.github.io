@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Carmelo La Gamba</title>
+    <link>https://carmelolg.github.io/</link>
+    <description>Recent content in About on Carmelo La Gamba</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://carmelolg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://carmelolg.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://carmelolg.github.io/about/</guid>
+      <description>Computer Scientist, mainly dreamer.
+ About Me  I&amp;rsquo;m a computer scientist, skilled in cloud-based architectures, enterprise applications and team leading. Usually I learn and develop new project in different computer science fields as IoT and Artificial Intelligence.
+Currently I&amp;rsquo;m Team Leader in TIM S.p.A, the greatest Telco company in Italy.
+I play guitar and swim  Miscellanous  Italy Covid19 &amp;mdash;&amp;gt; (Android or Other platforms) - The complete dashboard for tracing italian pandemic data of covid19 Manuale del Software Developer - A little manual for software developer, written during my experience as Tech Lead.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://carmelolg.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://carmelolg.github.io/resume/</guid>
+      <description>Work    Year Position Company     2021 - * IT Team Leader TIM S.p.A  &amp;mdash; Role: Lead teams during all phases, requirements analysis management.  &amp;mdash; Tech stack: DevOps, Google Cloud Platform   2019 - 2021 Technical Team Leader Capgemini Engineering  &amp;mdash; DevOps: Docker, Jenkins, Heroku, OpenShift, Kubernetes  &amp;mdash; Tech stack: SpringBoot, Java8+, Jax-RS, Hibernate, Jpa, NodeJS, Angular8+, npm   2016 - 2019 Software Engineer Sintea S.</description>
+    </item>
+    
+  </channel>
+</rss>
