@@ -7,8 +7,8 @@ enableEmoji = true
 #googleAnalytics = ""  # add your tracking id
 
 [params]
-  author = "Carmelo La Gamba"
-  description = "A simple monospaced resume theme for Hugo."
+  author = "carmelolg"
+  description = "Personal website of Carmelo La Gamba."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   #logo = "me.jpg"  # url or path to a logo to put in the header
   [params.footer]
