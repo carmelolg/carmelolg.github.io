@@ -38,7 +38,7 @@ enableEmoji = true
     icon = "fab fa-instagram"
     title = "Instagram"
     url = "https://www.instagram.com/carmelolg/"
-  [[params.social]]
+  [[params.socialIcons]]
     icon = "fab fa-reddit"
     title = "Reddit"
     link = "https://www.reddit.com/user/carmelolg"
@@ -59,6 +59,10 @@ enableEmoji = true
     name = "GitHub"
     url = "https://github.com/carmelolg"
     weight = 3
+  [[menu.main]]
+    name = "Blog"
+    url = "https://carmelolg.github.io/blog"
+    weight = 4
 
   #[[menu.main]]
   #  name = "Contact"
