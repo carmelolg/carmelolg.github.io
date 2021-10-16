@@ -38,6 +38,10 @@ enableEmoji = true
     icon = "fab fa-instagram"
     title = "Instagram"
     url = "https://www.instagram.com/carmelolg/"
+  [[params.social]]
+    icon = "fab fa-reddit"
+    title = "Reddit"
+    link = "https://www.reddit.com/user/carmelolg"
 
 [permalinks]
   "/" = "/:filename"
