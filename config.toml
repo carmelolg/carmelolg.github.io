@@ -41,7 +41,7 @@ enableEmoji = true
   [[params.socialIcons]]
     icon = "fab fa-reddit"
     title = "Reddit"
-    link = "https://www.reddit.com/user/carmelolg"
+    url = "https://www.reddit.com/user/carmelolg"
 
 [permalinks]
   "/" = "/:filename"
