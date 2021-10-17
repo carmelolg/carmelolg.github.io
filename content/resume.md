@@ -40,4 +40,4 @@ In chronological order:
 
 ## Miscellanous
 
-- <span style="color: red">No available yet</span> --> [Here](https://carmelolg.github.io/cv/cv.pdf) the resume in pdf.
+- <span style="color: red">No available yet</span> --> [Here](#) the resume in pdf.
