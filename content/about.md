@@ -20,8 +20,8 @@ I play guitar <img style="display:inline;" src="../guitar.svg" width="15" height
 
 ## Miscellanous
 
-- **Italy Covid19** ---> ([Android](https://drive.google.com/file/d/1WCq0tsjxC3-R9Kto39po3QZjoTwB_JLX/view?usp=sharing) or [Other platforms](https://italy-covid19.herokuapp.com/)) - The complete dashboard for tracing italian pandemic data of covid19
-- [Manuale del Software Developer](https://github.com/carmelolg/it-pragmatic-programmer/blob/master/Manuale%20del%20Software%20Developer%20-%20v1.pdf) - A little manual for software developer, written during my experience as Tech Lead.
-- [Genetic Algorithm illustration](https://github.com/carmelolg/genetic-algorithm-learning) <small>[live execution](https://www.youtube.com/watch?v=LxNrOD7fif0)</small> -  A simple genetic algorithm written in Python. The aim is to reconstruct a particular given string. 
-- [Conway's Game of Life](https://carmelolg.github.io/angularjs-cellular-automata) - The cellular automata Game of Life (<small>[some refs](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)</small>) implemented in AngularJS
-- [Vita da fuori campus](https://carmelolg.github.io/blog/) - Non technical personal blog
+- **Italy Covid19** ---> (<a href="https://drive.google.com/file/d/1WCq0tsjxC3-R9Kto39po3QZjoTwB_JLX/view?usp=sharing" target="_blank">Android</a> or <a href="https://italy-covid19.herokuapp.com/" target="_blank">Other platforms</a>) - The complete dashboard for tracing italian pandemic data of covid19
+- <a href="https://github.com/carmelolg/it-pragmatic-programmer/blob/master/Manuale%20del%20Software%20Developer%20-%20v1.pdf" target="_blank"> Manuale del Software Developer</a> - A little manual for software developer, written during my experience as Tech Lead.
+- <a href="https://github.com/carmelolg/genetic-algorithm-learning" target="_blank"> Genetic Algorithm illustration </a> <small><a href="https://www.youtube.com/watch?v=LxNrOD7fif0" target="_blank">live execution </a></small> -  A simple genetic algorithm written in Python. The aim is to reconstruct a particular given string. 
+- <a href="https://carmelolg.github.io/angularjs-cellular-automata" target="_blank"> Conway's Game of Life </a> - The cellular automata Game of Life (<small><a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" target="_blank">some refs</a></small>) implemented in AngularJS
+- <a href="https://carmelolg.github.io/blog/" target="_blank">Vita da fuori campus</a> - Non technical personal blog
