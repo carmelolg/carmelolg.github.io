@@ -8,7 +8,7 @@ title = "Carmelo La Gamba"
 
 {{< figure class="avatar" src="/me.jpg" alt="me">}}
 
-I'm a computer scientist, skilled in **cloud-based architectures, enterprise applications and team leading**.
+I'm a computer scientist (**M.Sc in Computer Science**), skilled in **cloud-based architectures, enterprise applications and team leading**.
 Usually I learn and develop new project in different computer science fields as IoT and Artificial Intelligence.
 
 Currently I'm IT Team Leader in **TIM S.p.A**, the greatest Telco company in Italy. 
@@ -34,12 +34,15 @@ My skill set contains **Java, Node.js, Python, Angular, Kubernetes, Openshift, G
 ---
 ## Education
 
-I have a **M.Sc. in Computer Science** defended at University of Calabria. My thesis work regarded the natural phenomena simulated by a **Cellular Automata** and improved on performance by the **GPGPU Programming** using CUDA <small>(<a href="https://github.com/carmelolg/master-thesis/raw/master/Tesi/pdf/main.pdf" target="_blank">pdf here</a>)</small>. 
+<!-- I have a **M.Sc. in Computer Science** defended at University of Calabria. -->
+My thesis work regarded the natural phenomena simulated by a **Cellular Automata** and improved on performance by the **GPGPU Programming** using CUDA <small>(<a href="https://github.com/carmelolg/master-thesis/raw/master/Tesi/pdf/main.pdf" target="_blank">pdf here</a>)</small>. 
 
+<!-- 
 I did courses regarding:
 + **Enterprise Application**
 + **Artificial Intelligence**
 + **Applied Math**
+-->
 
 I studied for 6 months abroad, thanks to the Erasmus+ Exchange Program provided by the EU. I collaborated with a research team of the **AGH University at Krakow** during my thesis implementation.
 
