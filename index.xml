@@ -11,9 +11,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://carmelolg.github.io/about/</guid>
-      <description>Computer Scientist, mainly dreamer. -- About Me  I&amp;rsquo;m a computer scientist (M.Sc in Computer Science), skilled in cloud-based architectures, enterprise applications and team leading. I study and develop new projects in different computer science fields like IoT and Artificial Intelligence.
-Currently, I&amp;rsquo;m IT Team Leader in TIM S.p.A, the largest Telco company in Italy.
-I play guitar and swim   var today = new Date(); var since = 2015; var expired = today.</description>
+      <description>About Me I&amp;rsquo;m a computer scientist (M.Sc in Computer Science), skilled in cloud-based architectures, enterprise applications and team leading. I study and develop new projects in different computer science fields like IoT and Artificial Intelligence.
+Currently, I&amp;rsquo;m Chief of Internal Software Factory in TIM S.p.A, the largest Telco company in Italy.
+I play guitar and swim Work experiences I have + years of experience on the IT field and I worked with 15+ different teams.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@ I play guitar and swim   var today = new Date(); var since = 2015; var expired =
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://carmelolg.github.io/resume/</guid>
-      <description>Work    Year Position Company     2021 - * IT Team Leader TIM S.p.A  &amp;mdash; Role: Lead teams during all phases, requirements analysis management.  &amp;mdash; Tech stack: DevOps, Google Cloud Platform   2019 - 2021 Technical Team Leader Capgemini Engineering  &amp;mdash; DevOps: Docker, Jenkins, Heroku, OpenShift, Kubernetes  &amp;mdash; Tech stack: SpringBoot, Java8+, Jax-RS, Hibernate, Jpa, NodeJS, Angular8+, npm   2016 - 2019 Software Engineer Sintea S.</description>
+      <description>Work Year Position Company 2021 - * IT Team Leader TIM S.p.A &amp;mdash; Role: Lead teams during all phases, requirements analysis management. &amp;mdash; Tech stack: DevOps, Google Cloud Platform 2019 - 2021 Technical Team Leader Capgemini Engineering &amp;mdash; DevOps: Docker, Jenkins, Heroku, OpenShift, Kubernetes &amp;mdash; Tech stack: SpringBoot, Java8+, Jax-RS, Hibernate, Jpa, NodeJS, Angular8+, npm 2016 - 2019 Software Engineer Sintea S.r.l (Previnet S.p.A company) &amp;mdash; Stack: Jax-RS, EJB 3.0, Hibernate, Jpa, Wildfly 10, Jenkins, AngularJS, Angular2+, ui-router, @uirouter, bower, npm, yarn, gulp 2015 - 2016 Software Developer Audacia S.</description>
     </item>
     
   </channel>
