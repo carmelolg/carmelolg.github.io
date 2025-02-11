@@ -5,13 +5,15 @@ title = "Carmelo La Gamba"
 <!-- > Computer Scientist, mainly dreamer. -->
 
 ## About Me
-
 {{< figure class="avatar" src="/me.jpg" alt="me">}}
 
 I'm a computer scientist (**M.Sc in Computer Science**), skilled in **cloud-based architectures, enterprise applications and team leading**.
 I study and develop new projects in different computer science fields like IoT and Artificial Intelligence.
 
-Currently, I'm **Chief of Internal Software Factory** in **TIM S.p.A**, the largest Telco company in Italy. 
+Previously, I was the **Chief of Internal Software Factory** at **TIM S.p.A**, the largest telecommunications company in Italy. 
+
+Currently, I am a **Senior Software Engineer** at **Intesa Sanpaolo S.p.A**, one of the largest banks in Europe.
+
 
 I play guitar <img style="display:inline;" src="../guitar.svg" width="15" height="15" /> and swim <img style="display:inline" src="../swimmer-solid.svg" width="15" height="15" />
 
@@ -28,7 +30,7 @@ I play guitar <img style="display:inline;" src="../guitar.svg" width="15" height
 
 ## Work experiences
 
-I have **<script>document.write(expired);</script>+** years of experience on the IT field and I worked with **15+** different teams. I worked with bank, insurance, healtcare and Telco companies for numerous projects using and designing microservices-based architectures, cloud-native solutions and enterprise applications.
+I have **<script>document.write(expired);</script>+** years of experience on the IT field and I worked with **20+** different teams. I worked with bank, insurance, healtcare and Telco companies for numerous projects using and designing microservices-based architectures, cloud-native solutions and enterprise applications.
 My skill set includes **Java, Node.js, Python, Angular, Kubernetes, Openshift, Google Cloud Platform, Heroku, Git and more**.
 
 ---

@@ -1,2 +1,9 @@
 public/
 gh-pages*
+.idea/
+.idea/*
+/.idea/.gitignore
+/.idea/carmelolg.github.io.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
