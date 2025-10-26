@@ -30,14 +30,14 @@ enableEmoji = true
     icon = "fab fa-linkedin-in"
     title = "LinkedIn"
     url = "https://it.linkedin.com/in/carmelolagamba"
-  [[params.socialIcons]]
-    icon = "fab fa-twitter"
-    title = "Twitter"
-    url = "https://twitter.com/carmelolg"
+  # [[params.socialIcons]]
+  #   icon = "fab fa-twitter"
+  #   title = "Twitter"
+  #   url = "https://twitter.com/carmelolg"
   [[params.socialIcons]]
     icon = "fab fa-instagram"
     title = "Instagram"
-    url = "https://www.instagram.com/carmelolg/"
+    url = "https://www.instagram.com/__wvll/"
   [[params.socialIcons]]
     icon = "fab fa-reddit"
     title = "Reddit"
