@@ -31,7 +31,7 @@ I play guitar <img style="display:inline;" src="../guitar.svg" width="15" height
 ## Work experiences
 
 I have **<script>document.write(expired);</script>+** years of experience on the IT field and I worked with **20+** different teams. I worked with bank, insurance, healtcare and Telco companies for numerous projects using and designing microservices-based architectures, cloud-native solutions and enterprise applications.
-My skill set includes **Java, Node.js, Python, Angular, Kubernetes, Openshift, Google Cloud Platform, Heroku, Git and more**.
+My skill set includes **Java, Node.js, Python, Angular, Kubernetes, Openshift, Google Cloud Platform, Heroku, Ollama, Git and more**.
 
 ---
 ## Education
@@ -66,6 +66,7 @@ I studied for 6 months abroad, thanks to the Erasmus+ Exchange Program provided 
 - <a href="https://github.com/carmelolg/SBAMo" target="_blank">Spring Boot Architecture for Monolith</a> - A template for starting a new monolith project using Spring Boot, Spring Cloud and Docker.
 - <a href="https://github.com/carmelolg/JCAL" target="_blank"> JCAL - Java Cellular Automata Library </a> - A simple library for implement easily Cellular Automata using Java. <span style="color: #f9a603 ">Warning --> Alpha release</span> 
 - <a href="https://github.com/carmelolg/genetic-algorithm-learning" target="_blank"> Genetic Algorithm illustration </a> <small><a href="https://www.youtube.com/watch?v=LxNrOD7fif0" target="_blank">live execution </a></small> -  A simple genetic algorithm written in Python. The aim is to reconstruct a particular given string. 
+- <a href="https://github.com/carmelolg/generative-ai-agent-example" target="_blank"> GenerativeAI Agent Example </a> -  A chat with an Hogwarts expert  🪄 using Ollama, Agents and LLMs  
 - <a href="https://carmelolg.github.io/angularjs-cellular-automata" target="_blank"> Conway's Game of Life </a> - The cellular automata Game of Life (<small><a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" target="_blank">some refs</a></small>) implemented in AngularJS
 - <a href="https://carmelolg.github.io/blog/" target="_blank">Vita da fuori campus</a> - Non technical personal blog 
 
