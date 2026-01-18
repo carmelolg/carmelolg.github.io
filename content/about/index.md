@@ -52,12 +52,6 @@ I studied for 6 months abroad, thanks to the Erasmus+ Exchange Program provided 
 
 ---
 
-
-## Full resume
-- <span style="color: red">No available yet</span> --> [Here](#) the resume in pdf.
-
----
-
 ## Miscellanous
 
 - <a href="https://play.google.com/store/apps/details?id=it.carmelolagamba.saveyourtime&pcampaignid=web_share" target="_blank">Save Your Time</a> - An Android application for monitoring app usage
