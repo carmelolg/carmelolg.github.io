@@ -31,7 +31,7 @@ I play guitar <img style="display:inline;" src="../guitar.svg" width="15" height
 ## Work experiences
 
 I have **<script>document.write(expired);</script>+** years of experience on the IT field and I worked with **20+** different teams. I worked with bank, insurance, healtcare and Telco companies for numerous projects using and designing microservices-based architectures, cloud-native solutions and enterprise applications.
-My skill set includes **Java, Node.js, Python, Angular, Kubernetes, Openshift, Google Cloud Platform, Heroku, Ollama, Git and more**.
+My skill set includes **Java, Node.js, Python, Angular, Kubernetes, Openshift, Google Cloud Platform, Heroku, Ollama, GenAI, AI Agent, Git and more**.
 
 ---
 ## Education
@@ -49,6 +49,14 @@ I studied for 6 months abroad, thanks to the Erasmus+ Exchange Program provided 
 - [Functional Program Design in Scala](https://www.coursera.org/account/accomplishments/verify/GTUWGVELYJPR)
 - [Functional Programming Priciples in Scala](https://www.coursera.org/account/accomplishments/verify/LS7WXPYGKSZX)
 - [Machine Learning](https://www.coursera.org/account/accomplishments/verify/9PBTUP3QG2AG)
+
+---
+
+## Talks
+
+#### Italian 
+
+- **23/01/2026 @ ITCG Galileo Galilei Avigliana (Torino)** - [Oltre la magia: come funziona la Generative AI](https://drive.google.com/file/d/1GVEop526CBJjQpdxKiCrccgZy3UGdoNY/view)
 
 ---
 
