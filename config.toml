@@ -18,10 +18,10 @@ enableEmoji = true
     url = "https://github.com/ojroques/hugo-researcher"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
-    pageWidth = "750px"
-    avatarSize = "90px"
-    colorBlack = "#222222"
-    colorRed = "#dc3545"
+    pageWidth = "1200px"
+    avatarSize = "120px"
+    colorBlack = "#181818"
+    colorRed = "#C41E3A"
   [[params.socialIcons]]
     icon = "fab fa-github"
     title = "GitHub"
