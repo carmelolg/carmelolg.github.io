@@ -47,10 +47,10 @@ enableEmoji = true
   "/" = "/:filename"
 
 [menu]
-  [[menu.main]]
-    name = "About"
-    url = "https://carmelolg.github.io"
-    weight = 1
+#  [[menu.main]]
+#    name = "About"
+#    url = "https://carmelolg.github.io"
+#    weight = 1
 #  [[menu.main]]
 #    name = "Resume"
 #    url = "/resume"

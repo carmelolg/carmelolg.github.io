@@ -68,10 +68,11 @@ I studied for 6 months abroad, thanks to the Erasmus+ Exchange Program provided 
 
 ##### Math & Computer Science
 - <a href="https://github.com/carmelolg/genetic-algorithm-learning" target="_blank"> Genetic Algorithm illustration </a> <small><a href="https://www.youtube.com/watch?v=LxNrOD7fif0" target="_blank">live execution </a></small> -  A simple genetic algorithm written in Python. The aim is to reconstruct a particular given string. 
+- <a href="https://github.com/carmelolg/markov-chain-example" target="_blank"> Markov Chain Example </a> - Markov Chain Example is an open-source GitHub repository demonstrating core Markov chain implementations in code.
 - <a href="https://github.com/carmelolg/JCAL" target="_blank"> JCAL - Java Cellular Automata Library </a> - A simple library for implement easily Cellular Automata using Java. <span style="color: #f9a603 ">Warning --> Alpha release</span> 
 - <a href="https://carmelolg.github.io/angularjs-cellular-automata" target="_blank"> Conway's Game of Life </a> - The cellular automata Game of Life (<small><a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" target="_blank">some refs</a></small>) implemented in AngularJS
 
-##### Software Engineering
+##### Software Architecture and Engineering
 - <a href="https://github.com/carmelolg/SBAM" target="_blank">Spring Boot Architecture for Microservices</a> - A template for starting a new microservice project using Spring Boot, Spring Cloud and Docker.
 - <a href="https://github.com/carmelolg/SBAMo" target="_blank">Spring Boot Architecture for Monolith</a> - A template for starting a new monolith project using Spring Boot, Spring Cloud and Docker.
 - <a href="https://github.com/carmelolg/it-pragmatic-programmer/raw/master/Manuale%20del%20Software%20Developer%20-%20v1.pdf" target="_blank"> Manuale del Software Developer</a> - [Italian] A manual for software developers, written during my experience as Tech Lead.
@@ -85,6 +86,8 @@ I studied for 6 months abroad, thanks to the Erasmus+ Exchange Program provided 
 ---
 
 ## Dismissed project
+
+<a href="https://github.com/org-carmelolg-archive" target="_blank"> Github Archive </a>
 
 - **Italy Covid19** ---> The complete dashboard for tracing italian pandemic data of Covid19 - <small>**repositories archivied on github**</small>
 - **Pong** ---> The most famous retrogame in the world - <small>**repositories archivied on github**</small>
