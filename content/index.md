@@ -12,7 +12,7 @@ I study and develop new projects in different computer science fields like IoT a
 
 Previously, I was the **Chief of Internal Software Factory** at **TIM S.p.A**, the largest telecommunications company in Italy. 
 
-Currently, I am a **Senior Software Engineer** at **Intesa Sanpaolo S.p.A**, one of the largest banks in Europe.
+Currently, I am a **Software Architect** and **Senior Software Engineer** at **Intesa Sanpaolo S.p.A**, one of the largest banks in Europe.
 
 
 <!-- I play guitar <img style="display:inline;" src="../guitar.svg" width="15" height="15" /> and swim <img style="display:inline" src="../swimmer-solid.svg" width="15" height="15" /> -->
