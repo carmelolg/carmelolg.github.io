@@ -66,6 +66,7 @@ I studied for 6 months abroad, thanks to the Erasmus+ Exchange Program provided 
 - <a href="https://github.com/carmelolg/generative-ai-agent-example" target="_blank"> GenerativeAI Agent Example </a> -  A chat with an Hogwarts expert  🪄 using Ollama, Agents and LLMs  
 - <a href="https://github.com/carmelolg/generative-ai-rag-example" target="_blank"> GenerativeAI RAG Example </a> -  A RAG example using Ollama and LLMs  
 - <a href="https://github.com/carmelolg/OAIA" target="_blank"> OrchestraAI Architecture </a> - A modular Python library for orchestrating LLM providers with clean architecture principles 
+- <a href="https://github.com/org-carmelolg-private-labs/agentic-totchef" target="_blank"> Agentic TotChef </a> - A GenAI Agent generate balanced monthly menus for toddlers.
 
 
 ##### Math & Computer Science
