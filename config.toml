@@ -18,8 +18,8 @@ enableEmoji = true
     url = "https://github.com/ojroques/hugo-researcher"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
-    pageWidth = "1200px"
-    avatarSize = "120px"
+    pageWidth = "800px"
+    avatarSize = "100px"
     colorBlack = "#181818"
     colorRed = "#C41E3A"
   [[params.socialIcons]]
