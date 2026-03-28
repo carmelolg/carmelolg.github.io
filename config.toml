@@ -44,7 +44,7 @@ enableEmoji = true
     url = "https://www.reddit.com/user/carmelolg"
 
 [permalinks]
-  "/" = "/:filename"
+  "/" = "/:contentbasename"
 
 [menu]
 #  [[menu.main]]
