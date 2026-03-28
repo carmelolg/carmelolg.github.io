@@ -88,7 +88,7 @@ I studied for 6 months abroad, thanks to the Erasmus+ Exchange Program provided 
 
 ---
 
-## Dismissed project
+## Dismissed projects
 
 <a href="https://github.com/org-carmelolg-archive" target="_blank"> Github Archive </a>
 
