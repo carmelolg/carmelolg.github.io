@@ -82,7 +82,8 @@ I studied for 6 months abroad, thanks to the Erasmus+ Exchange Program provided 
 
 ##### Tools & Templates
 - <a href="https://github.com/carmelolg/shizuka" target="_blank">Shizuka</a> - A minimal, clean Hugo blog theme with dark mode, reading time, archive support, and full i18n <small><a href="https://carmelolg.github.io/shizuka/" target="_blank">demo</a></small>
-- <a href="https://github.com/org-carmelolg-private-labs/chords" target="_blank">Chords</a> - A digital representation of my bedroom performances 🎸 with an interactive web interface <small><a href="https://org-carmelolg-private-labs.github.io/chords/" target="_blank">website</a></small>
+- <a href="https://github.com/carmelolg/shiori" target="_blank">Shiori</a> - A clean Hugo theme for documenting software libraries, APIs, and technical systems, with dark mode and i18n support. <small><a href="https://carmelolg.github.io/shiori/" target="_blank">demo</a></small>
+
 
 ##### Android
 - <a href="https://play.google.com/store/apps/details?id=it.carmelolagamba.saveyourtime&pcampaignid=web_share" target="_blank">Save Your Time</a> - An Android application for monitoring app usage
