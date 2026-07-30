@@ -81,7 +81,7 @@ I studied for 6 months abroad, thanks to the Erasmus+ Exchange Program provided 
 - <a href="https://github.com/carmelolg/it-pragmatic-programmer/raw/master/Manuale%20del%20Software%20Developer%20-%20v1.pdf" target="_blank"> Manuale del Software Developer</a> - [Italian] A manual for software developers, written during my experience as Tech Lead.
 
 ##### Tools & Templates
-- <a href="https://github.com/jinbocho" target="_blank"> Jinbocho </a> - Jinbocho is an open-source home library management system designed to help families catalog, organize, and rediscover their physical book collections. <small><a href="https://jinbocho.github.io/jinbocho-docs/" target="_blank">More details here</a></small>
+- <a href="https://github.com/jinbocho" target="_blank"> Jinbocho </a> - Jinbocho is an open-source home library management system designed to help families catalog, organize, and rediscover their physical book collections. <small><a href="https://jinbocho.github.io/" target="_blank">More details here</a></small>
 - <a href="https://github.com/carmelolg/shizuka" target="_blank">Shizuka</a> - A minimal, clean Hugo blog theme with dark mode, reading time, archive support, and full i18n <small><a href="https://carmelolg.github.io/shizuka/" target="_blank">demo</a></small>
 - <a href="https://github.com/carmelolg/shiori" target="_blank">Shiori</a> - A clean Hugo theme for documenting software libraries, APIs, and technical systems, with dark mode and i18n support. <small><a href="https://carmelolg.github.io/shiori/" target="_blank">demo</a></small>
 
