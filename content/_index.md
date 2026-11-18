@@ -71,6 +71,8 @@ I studied for 6 months abroad, thanks to the Erasmus+ Exchange Program provided 
 
 ##### Math & Computer Science
 - <a href="https://github.com/carmelolg/genetic-algorithm-learning" target="_blank"> Genetic Algorithm illustration </a> <small><a href="https://www.youtube.com/watch?v=LxNrOD7fif0" target="_blank">live execution </a></small> -  A simple genetic algorithm written in Python. The aim is to reconstruct a particular given string. 
+- <a href="https://github.com/carmelolg/GALib" target="_blank"> GALib </a> - A small, extensible Python library to build genetic algorithms, fully typed with no core dependencies. <small><a href="https://carmelolg.github.io/GALib/" target="_blank">docs here</a></small>
+- <a href="https://github.com/carmelolg/genetic-evolving-polygons" target="_blank"> GAPoly </a> - A genetic algorithm (built on GALib) that evolves semi-transparent polygons until they look like a target photo.
 - <a href="https://github.com/carmelolg/markov-chain-example" target="_blank"> Markov Chain Example </a> - Markov Chain Example is an open-source GitHub repository demonstrating core Markov chain implementations in code.
 - <a href="https://github.com/carmelolg/JCAL" target="_blank"> JCAL - Java Cellular Automata Library </a> - A simple library for implement easily Cellular Automata using Java. 
 - <a href="https://carmelolg.github.io/angularjs-cellular-automata" target="_blank"> Conway's Game of Life </a> - The cellular automata Game of Life (<small><a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" target="_blank">some refs</a></small>) implemented in AngularJS
